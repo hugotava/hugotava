@@ -1,4 +1,10 @@
 ### Hi there 👋
+## I'm Hugo!
+
+I'm a Christian, husband, father, graduated in Business Administration, military, air traffic controller, fascinated by technology and learn new things.
+
+- 🔭 I’m currently working in the Air Force as an Air Traffic Controller.
+- 🌱 I’m currently learning how to develop websites using HTML, CSS and JavaScript. I'm studying systems analysis and development at university and also have contact with languages such as Python, SQL, among others.
 
 <!--
 **hugotava/hugotava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
