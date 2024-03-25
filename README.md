@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Hugo!
 
-![Almost me...](https://github.com/hugotava/hugotava/blob/main/download.jpeg)
+![Almost me...](https://github.com/hugotava/hugotava/blob/main/on_web.png)
 
 I'm a Christian, husband, father, graduated in Business Administration, military, air traffic controller, fascinated by technology and learn new things.
 
