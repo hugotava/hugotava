@@ -3,7 +3,7 @@
 
 <div align="center">
   
-![Almost me...](https://github.com/hugotava/hugotava/blob/main/on_web.png)
+![Almost me...](https://github.com/hugotava/hugotava/blob/main/banner_git.png)
 
 </div>
 
