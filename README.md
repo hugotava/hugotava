@@ -1,4 +1,13 @@
-<!-- ### Hi there 👋-->
+<!-- ### Hi there 👋
+<div align="center">
+  
+![Almost me...](https://github.com/hugotava/hugotava/blob/main/banner_git.png)
+
+</div>
+-->
+
+
+
 # Olá! Eu sou o Hugo Tavares Barbosa
 
 👨‍✈️ Controlador de Tráfego Aéreo na Força Aérea Brasileira
@@ -62,7 +71,9 @@
 [![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hugotav.hashnode.dev/)
 
 
-
+<div align="center">
+  <img src="https://github.com/hugotava/hugotava/blob/main/banner_git.png" alt="Almost me..." style="width: 100%; max-width: 1200px;">
+</div>
 
 <!--
 <div align="center">
