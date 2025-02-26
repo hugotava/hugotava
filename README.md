@@ -14,7 +14,7 @@
 
 💻 Desenvolvedor Fullstack em formação
 
-🎓 Estudante de Tecnologia em Sistemas de Computação
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -50,7 +50,6 @@
 
 ## 📊 Estatísticas do GitHub
 
-- 🔹 **Repositórios:** ![GitHub repo count](https://img.shields.io/github/repositories/hugotava?style=flat-square)  
 - 💻 **Linguagens mais utilizadas:**  
 
 <p align="center">
