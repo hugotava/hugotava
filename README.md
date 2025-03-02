@@ -12,7 +12,7 @@
 
 👨‍✈️ Controlador de Tráfego Aéreo na Força Aérea Brasileira
 
-💻 Desenvolvedor Fullstack em formação
+💻 Desenvolvedor Frontend em formação
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
