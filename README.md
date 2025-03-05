@@ -39,7 +39,7 @@
   **Tecnologias:** ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 
 - [**Planner NLW**](https://github.com/hugotava/planner-nlw)  
-  📌 Aplicação de planejamento desenvolvida durante a NLW (Next Level Week), utilizando tecnologias modernas para organização de tarefas.  
+  📌 Aplicação de um planejador de viagem desenvolvida durante a NLW (Next Level Week), utilizando tecnologias modernas para organização de tarefas.  
   **Tecnologias:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
 
 - [**To-Do List**](https://github.com/hugotava/todo-list)  
