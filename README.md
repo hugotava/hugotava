@@ -35,7 +35,7 @@
 ## 🚀 Projetos em Destaque
 
 - [**Curso PHP Moderno**](https://github.com/hugotava/cursophp-moderno)  
-  📌 Repositório com exercícios e exemplos do curso "PHP Moderno", abordando práticas atualizadas de desenvolvimento com PHP.  
+  📌 Repositório com exercícios, desafios e exemplos do curso "PHP Moderno", abordando práticas atualizadas de desenvolvimento com PHP.  
   **Tecnologias:** ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 
 - [**Planner NLW**](https://github.com/hugotava/planner-nlw)  
