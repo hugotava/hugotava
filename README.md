@@ -52,6 +52,11 @@
 
 - 💻 **Linguagens mais utilizadas:**  
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugotava&layout=compact&langs_count=6&theme=radical" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hugotava&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub"/>
+</div>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugotava&layout=compact&langs_count=6&theme=radical" alt="Linguagens mais usadas"/>
 </p>
