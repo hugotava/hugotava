@@ -8,9 +8,9 @@
 
 
 
-# Olá! Eu sou o Hugo Tavares Barbosa
+# Olá! Eu sou o Hugo Tavares 👋
 
-👨‍✈️ Controlador de Tráfego Aéreo na Força Aérea Brasileira
+👨‍✈️ Sargento Especialista em Controle de Tráfego Aéreo na FAB
 
 💻 Desenvolvedor Frontend em formação
 
