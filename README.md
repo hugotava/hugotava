@@ -14,7 +14,7 @@
 
 💻 Desenvolvedor Frontend em formação
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (80%)
 
 
 ## 🛠️ Tecnologias e Ferramentas
