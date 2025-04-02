@@ -32,7 +32,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos de aprendizado
 
 - [**Curso PHP Moderno**](https://github.com/hugotava/cursophp-moderno)  
   📌 Repositório com exercícios, desafios e exemplos do curso "PHP Moderno", abordando práticas atualizadas de desenvolvimento com PHP.  
